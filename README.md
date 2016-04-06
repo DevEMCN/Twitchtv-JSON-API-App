@@ -1,4 +1,6 @@
 # Twitchtv-JSON-API-App
+
+<h2> FreeCodeCamp Intermediate Project #4</h2>
 See a list of twitch users and whether they are streaming live
 
 User Stories: <br/>
