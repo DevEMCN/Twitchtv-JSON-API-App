@@ -1,7 +1,7 @@
 # Twitchtv-JSON-API-App
 See a list of twitch users and whether they are streaming live
 
-User Stories:
+User Stories: <br/>
 User Story 1: I can see whether Free Code Camp is currently streaming on Twitch.tv.
 
 User Story 2: I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
