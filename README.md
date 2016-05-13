@@ -3,7 +3,7 @@
 <h2> FreeCodeCamp Intermediate Project #4</h2>
 See a list of twitch users and whether they are streaming live
 
-<a href="https://github.com/DevEMCN/Twitchtv-JSON-API-App/blob/master/index.html">See Preview Here</a>
+<a href="https://htmlpreview.github.io/?https://github.com/DevEMCN/Twitchtv-JSON-API-App/blob/master/index.html">See Preview Here</a>
 
 User Stories: <br/>
 User Story 1: I can see whether Free Code Camp is currently streaming on Twitch.tv.
